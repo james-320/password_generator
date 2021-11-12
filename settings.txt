@@ -1,0 +1,16 @@
+[DEFAULT]
+min_word_length = 5
+max_word_length = 10
+number_of_words = 2
+number_of_digits = 2
+number_of_punctuation = 2
+number_of_passwords = 5
+
+[last_used]
+min_word_length = 8
+max_word_length = 9
+number_of_words = 2
+number_of_digits = 2
+number_of_punctuation = 2
+number_of_passwords = 100
+
